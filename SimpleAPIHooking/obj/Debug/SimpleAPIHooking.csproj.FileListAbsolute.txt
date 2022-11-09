@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\C#\SimpleAPIHooking\SimpleAPIHooking\bin\Debug\SimpleAPIHooking.exe.config
+C:\Users\pc\Desktop\C#\SimpleAPIHooking\SimpleAPIHooking\bin\Debug\SimpleAPIHooking.exe
+C:\Users\pc\Desktop\C#\SimpleAPIHooking\SimpleAPIHooking\bin\Debug\SimpleAPIHooking.pdb
+C:\Users\pc\Desktop\C#\SimpleAPIHooking\SimpleAPIHooking\obj\Debug\SimpleAPIHooking.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\SimpleAPIHooking\SimpleAPIHooking\obj\Debug\SimpleAPIHooking.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\C#\SimpleAPIHooking\SimpleAPIHooking\obj\Debug\SimpleAPIHooking.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\SimpleAPIHooking\SimpleAPIHooking\obj\Debug\SimpleAPIHooking.exe
+C:\Users\pc\Desktop\C#\SimpleAPIHooking\SimpleAPIHooking\obj\Debug\SimpleAPIHooking.pdb
